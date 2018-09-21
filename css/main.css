@@ -1,3 +1,9 @@
+@font-face{
+    font-family: 'Russian';
+    src: url('../fonts/Russian.ttf') format("truetype");
+
+}
+
 body {
     margin: 60px auto;
     width: 70%;
