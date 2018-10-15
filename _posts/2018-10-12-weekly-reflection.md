@@ -8,6 +8,7 @@ This week in computter science, we learned some new stuff. One thing we did is P
 and take turns doing problems in wescheme. Only one person can control the keyboard and mouse, while the other person has to tell them what to do. By doing this, we learned how to use (put-image) in weshceme. Put-image is a function used to put an image or shape inside another image or shape. You would usually see this in racket, the format of coding used in wescheme. To use put-image, the contract would look like this: (put-image (square 30 "solid" "blue") 25 10 (circle 15 "solid" "red")).
 
 I can connect this to week 2 where I learned how to solve equations in wescheme. To solve a math equation, the contract would look like this: (- ( + 4 12) 9). This is similar to how you use put-image because you have to put in a function, in this case put-image. After that, you put in another pair of parenthesis and another set of functions. Then you put the last pair of functions at the end to get an image like this:
+
 ------------------
 -                -
 -     -----      -
@@ -16,6 +17,7 @@ I can connect this to week 2 where I learned how to solve equations in wescheme.
 -     -----      -
 -                -
 ------------------
+
 With the math, you get the answer to the equation.
 
 #_part 2_
