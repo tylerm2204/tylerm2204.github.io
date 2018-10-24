@@ -13,4 +13,4 @@ Once I get that figured out, I will be good for a while. One opportunity or thin
 overlay, I found out that I can put multiple star outlines that are each a little bit bigger than eachother. By
 doing this, I made a more thicker outline star instead of a thin outline that I could barely see.
 
--This is the end of the blog. See you in the next one!-
+-This is the end of the blog. See you in my next one!-
