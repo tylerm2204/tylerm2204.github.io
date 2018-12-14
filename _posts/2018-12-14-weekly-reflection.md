@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flag Project 2.0 Progress Report"
+title: "Flag Project v2 Progress Report"
 date: 2018-12-14
 ---
 
