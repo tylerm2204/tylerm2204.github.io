@@ -20,7 +20,7 @@ The country I designed for was Malaysia. I is a pretty hard flag to make, but in
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-<!--- Delete this comment and add your writing -->
+
 
 
 ## Explain your code.
