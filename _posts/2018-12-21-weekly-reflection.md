@@ -4,14 +4,14 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of _Malaysia_ by _Tyler Marx_
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
+-   What country did you design for? 
 -   What grade do you expect? _then delete this instruction_
 
-<!--- Delete this comment and add your writing -->
+<!--- The country I designed for was Malaysia. I is a pretty hard flag to make, but in the end it will look cool. I expect to hopefully get a professional grade because this flag was advanced and I worked hard on it a put every detail into it. -->
 
 ## Current output
 
