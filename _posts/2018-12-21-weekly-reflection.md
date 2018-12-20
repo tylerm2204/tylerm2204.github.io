@@ -8,17 +8,12 @@ date: 2018-12-21
 
 ## Describe your program
 
--   What country did you design for? 
--   What grade do you expect? _then delete this instruction_
-
-<!--- The country I designed for was Malaysia. I is a pretty hard flag to make, but in the end it will look cool. I expect to hopefully get a professional grade because this flag was advanced and I worked hard on it a put every detail into it. -->
+The country I designed for was Malaysia. I is a pretty hard flag to make, but in the end it will look cool. I expect to hopefully get a professional grade because this flag was advanced and I worked hard on it a put every detail into it.
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
-
 * * *
-![Flag](/images/final-flag.png)
+![Flag](/images/FlagV2.0.png)
 * * *
 
 ## Describe your process.
