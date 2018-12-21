@@ -20,7 +20,7 @@ The country I designed for was Malaysia. I is a pretty hard flag to make, but in
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-
+The process was really hard to create the Malaysian flag. The first challenge I had was creating the star. The star has 14 points on it. However, I looked up how to do it, and I figures it out. You have to input 3 numbers for your star. The first number is the number of points. The second number is the radius of the middle. The last number is the size of the whole star. Another problem I had was creating a 
 
 
 ## Explain your code.
