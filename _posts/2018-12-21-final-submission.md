@@ -23,10 +23,8 @@ The process was really hard to create the Malaysian flag. The first challenge I 
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
-The arguments in the box are the most important in my whole code. The definitions leading up to the final falg are what really helped instead of rewriting the code over and over again. It function
+
+The arguments in the box are the most important in my whole code. The definitions leading up to the final flag are what really helped instead of rewriting the code over and over again. It does function independently because the definitions that were already made are what helps the code create the image.
 
 * * *
 
@@ -50,14 +48,35 @@ HOORAY
 
 * * *
 
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
+ This code is what creates the final flag. Stripes are the stripes for the flag, Hooray is the final flag, and all the other random words are the steps it took to create it. For example, OOF would have only 3 white stripes and a red background with a blue patch and a crescent and a star. HOORAY would be the final image with all the stripes needed and the rest of the flag. This section fits into the whole because without it, the final image wouldn't be complete.
+
 
 
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+(define STRIPES (rectangle 300 14 "solid" "white"))
+(define STRIPE (rectangle 160 14 "solid" "white"))
+(define STAR (scale 3/4 (star 14 22 50 "solid" "gold")))
+(define WIDTH 300)
+(define HEIGHT 200)
+(define BOX (rectangle WIDTH HEIGHT "solid" "red"))
+(define WITH 150)
+(define HIGHT 105)
+(define BIG (rectangle WITH HIGHT "solid" "darkblue"))
+(define JUICE (circle 40 "solid" "gold"))
+(define BOB (circle 30 "solid" "darkblue"))
+(define CRESCENT (put-image BOB 55 42 JUICE))
+(define TOGETHER (put-image BIG 70 150 BOX))
+(define YEET (put-image CRESCENT 46 150 TOGETHER))
+(define YUSS (put-image STAR 105 150 YEET))
+(define OK (put-image STRIPES 150 7 YUSS))
+(define OMG (put-image STRIPES 150 35 OK))
+(define OOF (put-image STRIPES 150 63 OMG))
+(define GOOD (put-image STRIPES 150 91 OOF))
+(define DOG (put-image STRIPE 225 119 GOOD))
+(define CAT (put-image STRIPE 225 147 DOG))
+(define HOORAY (put-image STRIPE 225 175 CAT))
+HOORAY
+
 ```
