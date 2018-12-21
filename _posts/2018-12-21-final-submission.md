@@ -13,7 +13,7 @@ The country I designed for was Malaysia. I is a pretty hard flag to make, but in
 ## Current output
 
 * * *
-![Flag](/images/FlagV2.0.png)
+![Flag](/images/FinalFlag.png)
 * * *
 
 ## Describe your process.
